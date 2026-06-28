@@ -156,7 +156,7 @@ pushkar = {
 
 I'm always open to discussing AI projects, system design, or interesting engineering challenges.
 
-**📧 your.email@gmail.com**
+**📧 pantpushkar4@gmail.com**
 
 </div>
 
