@@ -66,7 +66,7 @@ pushkar = {
         <a href="https://github.com/Pushkarpant/rag-dashboard">
           <img src="https://img.shields.io/badge/Code-1A1A2E?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="#">
+        <a href="https://verity-e1ks.onrender.com/">
           <img src="https://img.shields.io/badge/Live_Demo-00C896?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
